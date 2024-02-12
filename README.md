@@ -72,6 +72,7 @@ On Windows:
 
 ```bash
 .\venv\Scripts\activate
+```
 
 On macOS/Linux:
 
