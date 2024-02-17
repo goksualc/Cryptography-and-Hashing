@@ -2,7 +2,7 @@
 
 Welcome to the Cryptography and Hashing repository! In this comprehensive course, we explore a wide range of cryptographic concepts, private and public key cryptosystems, various encryption algorithms, and hashing techniques. Whether you're a beginner or an experienced coder, this repository provides both theoretical insights and practical implementations.
 
-## ** Requirements **
+## Requirements
 
 To run the **Python** code in this repository, you'll need to set up a Python environment on your machine. Follow the steps below to get started:
 
